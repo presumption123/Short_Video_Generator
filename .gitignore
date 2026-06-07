@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.mp4
+*.mov
+*.m4v
+client_secret*.json
+youtube_token.pickle
